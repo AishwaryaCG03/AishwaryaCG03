@@ -1,5 +1,8 @@
 Hi there, I'm Aishwarya CG 👋
 
+I'm a passionate and creative student aspiring to become a software engineer, who loves to solve problems and creat engaging experience.
+
+
 <!--
 **aish250/aish250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
