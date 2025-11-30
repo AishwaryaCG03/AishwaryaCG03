@@ -1,6 +1,14 @@
 Hi there, I'm Aishwarya CG 👋
+🎓 3rd Year Student | 💻 Future Software Engineer | 🚀 Creator of Cool Projects
 
-I'm a passionate and creative student aspiring to become a software engineer, who loves to solve problems and creat engaging experience.
+
+✨ About Me
+I'm a 3rd-year Computer Science student who loves building things that solve real-world problems.
+Passionate about AI, Web Development, Cloud and turning ideas into working apps.
+
+Always learning. Always building. Always curious. ⚡
+
+
 
 
 <!--
